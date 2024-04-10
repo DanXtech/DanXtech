@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<h1>My Name is Daniel </h1>
-<h2>I am a software developer</h2>
+<h2>My Name is Daniel </h2>
+<h3>I am a Software developer</h3>
 
 Here are some ideas to get you started:
 
