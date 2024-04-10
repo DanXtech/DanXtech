@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<!--
-**DanXtech/DanXtech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>My Name is Daniel </h1>
+<h2>I am a software developer</h2>
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
